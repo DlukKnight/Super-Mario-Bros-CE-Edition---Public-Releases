@@ -1,4 +1,4 @@
-#Welcome to the Super Mario Bros CE Edition Release Hub
+# Welcome to the Super Mario Bros CE Edition Release Hub
 
 This project is in alpha stage. You can test a lot of things by pressing F1, unlocking Debug Mode.
 
