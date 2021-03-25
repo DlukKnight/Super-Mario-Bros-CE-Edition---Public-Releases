@@ -8,6 +8,7 @@ Commands in Debug Mode:
 - F3 will summon a mushroom / ice PowerUp
 - F4 will summon a mushroom / lighning PowerUp
 - F5 will revert to small Mario
+- F9 will summon a Star item
 - F11 will unlock de camera, allowing to backtrack
 - F12 will put the detection map
 - R will make Mario teleport above the screen
