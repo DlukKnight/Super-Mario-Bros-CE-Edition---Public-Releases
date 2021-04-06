@@ -9,6 +9,7 @@ Commands in Debug Mode:
 - F4 will summon a mushroom / lighning PowerUp
 - F5 will revert to damage the player
 - F6 will open a menu to teleport to any map
+- F7 will activate or deactivate the underwater enviroment
 - F9 will summon a Star item
 - F10 will put the timer in 100
 - F11 will unlock de camera, allowing to backtrack
