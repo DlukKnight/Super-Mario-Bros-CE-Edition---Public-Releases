@@ -6,5 +6,5 @@ This project is in beta stage. It contains the following features:
 - Local multiplayer.
 - Gamepad support and configuration.
 - Adaptable resolution, it should work in any display device. It will generate black bars if the relation aspect is not 16:9.
-- 15 maps so far (from 1-1 to 4-3).
+- 16 maps so far (from 1-1 to 4-4).
 - Configuration menu that will save user config.
