@@ -9,3 +9,5 @@ This project is in beta stage. It contains the following features:
 - 18 maps so far (from 1-1 to 5-2).
 - Configuration menu that will save user config.
 - Android and Windows versions available and up to date.
+
+Last release: [beta v0.1.021: World 5-2 added and Android port](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.021-beta)
