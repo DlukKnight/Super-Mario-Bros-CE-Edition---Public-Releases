@@ -1,3 +1,5 @@
+![alt text](ReadmeImage.png)
+
 # Welcome to the Super Mario Bros CE Edition Release Hub
 
 This project is in beta stage. It contains the following features:
