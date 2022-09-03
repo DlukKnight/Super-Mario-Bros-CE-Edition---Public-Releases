@@ -13,8 +13,8 @@ This project is in beta stage. It contains the following features:
 - Configuration menu that will save user config.
 - Android and Windows versions available and up to date.
 
-Last release: [beta v0.1.028](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.028-beta)
+Last release: [beta v0.1.029](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.029-beta)
 
 Direct downloads:
-- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.028-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
-- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.028-beta/Super_Mario_Bros_CE_Edition.Main.apk)
+- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.029-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
+- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.029-beta/Super_Mario_Bros_CE_Edition.Main.apk)
