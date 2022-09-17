@@ -8,13 +8,13 @@ This project is in beta stage. It contains the following features:
 - Local multiplayer.
 - Gamepad support and configuration.
 - Adaptable resolution, it should work in any display device. It will generate black bars if the relation aspect is not 16:9.
-- 25 new maps so far (from 1-1 to 7-1). The first two worlds are mostly classic, after the third it starts getting a little more varied from the original.
+- 26 new maps so far (from 1-1 to 7-2). The first two worlds are mostly classic, after the third it starts getting a little more varied from the original.
 - 20 classic maps (from 1-1 to 5-4).
 - Configuration menu that will save user config.
 - Android and Windows versions available and up to date.
 
-Last release: [beta v0.1.032](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.032-beta)
+Last release: [beta v0.1.033](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.033-beta)
 
 Direct downloads:
-- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.032-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
-- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.032-beta/Super_Mario_Bros_CE_Edition.Main.apk)
+- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.033-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
+- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.033-beta/Super_Mario_Bros_CE_Edition.Main.apk)
