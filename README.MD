@@ -9,7 +9,7 @@ This project is in beta stage. It contains the following features:
 - Gamepad support and configuration.
 - Adaptable resolution, it should work in any display device. It will generate black bars if the relation aspect is not 16:9.
 - 27 new maps so far (from 1-1 to 7-3). The first two worlds are mostly classic, after the third it starts getting a little more varied from the original.
-- 24 classic maps (from 1-1 to 6-4).
+- 28 classic maps (from 1-1 to 7-4).
 - Configuration menu that will save user config.
 - Android and Windows versions available and up to date.
 
