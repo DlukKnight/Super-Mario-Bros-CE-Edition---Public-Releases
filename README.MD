@@ -30,9 +30,9 @@ This project is in beta stage. It contains the following features:
   
 # Last release
 
-[beta v0.1.035](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.035-beta)
+[beta v0.1.036](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.035-beta)
 
 # Downloads
 
-- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.035-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
-- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.035-beta/Super_Mario_Bros_CE_Edition.Main.apk)
+- [Download Windows version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.036-beta/Super.Mario.Bros.CE.Edition.Beta.-.Windows.zip)
+- [Download Android version](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/download/v0.1.036-beta/Super_Mario_Bros_CE_Edition.Main.apk)
