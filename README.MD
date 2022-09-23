@@ -30,7 +30,7 @@ This project is in beta stage. It contains the following features:
   
 # Last release
 
-[beta v0.1.036](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.035-beta)
+[beta v0.1.036](https://github.com/DlukKnight/Super-Mario-Bros-CE-Edition---Public-Releases/releases/tag/v0.1.036-beta)
 
 # Downloads
 
